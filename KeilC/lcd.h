@@ -8,6 +8,6 @@ void LCD_init();
 void LCD_cmd(unsigned char a);
 void LCD_char(unsigned char b);
 void LCD_string(unsigned char *s);
-void LCD_string_xy(unsigned char *s, char row, char);
+void LCD_string_xy(unsigned char *s, char row, char pos);
 
 #endif
