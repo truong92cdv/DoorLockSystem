@@ -20,6 +20,6 @@ sbit LCD_RS 	= P2^6;
 sbit LCD_RW 	= P2^5;
 
 sbit SERVO_PIN 	= P2^4;
-sbit IRIN 		= P3^2;
+sbit IRIN 		  = P3^2;
 
 #endif
